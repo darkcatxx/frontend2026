@@ -17,18 +17,22 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: newsapp-angular
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: newsapp-angular/package-lock.json
       - run: npm ci
       # El base-href toma automáticamente el nombre del repositorio
       - run: npx ng build --base-href "/${{ github.event.repository.name }}/"
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/newsapp/browser
+          path: newsapp-angular/dist/newsapp/browser
 
   deploy:
     needs: build
