@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Nuevo laboratorio de innovación abre sus puertas en la ciudad",
+    "categoria": "Educativa",
+    "resumen": "Un espacio pensado para que estudiantes de colegios públicos experimenten con robótica y programación.",
+    "contenido": "El nuevo laboratorio de innovación busca acercar la tecnología a estudiantes de colegios públicos mediante talleres gratuitos de robótica, programación y diseño digital. La iniciativa, liderada por la Secretaría de Educación, contará con equipos de última generación y mentores voluntarios del sector tecnológico. Se espera que durante el primer año pasen por el espacio más de dos mil estudiantes de educación media.",
+    "imagen": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "fecha": "2026-09-02",
+    "destacada": true
+  },
+  {
+    "id": 2,
+    "titulo": "Lanzan asistente basado en IA para pequeños agricultores",
+    "categoria": "Tecnológica",
+    "resumen": "La herramienta ayuda a predecir plagas y optimizar el riego usando datos climáticos locales.",
+    "contenido": "Un equipo de desarrolladores presentó un asistente basado en inteligencia artificial diseñado para pequeños agricultores de la región. La herramienta analiza datos climáticos y de suelo para predecir plagas, sugerir momentos óptimos de riego y reducir el uso de agroquímicos. El proyecto fue probado durante seis meses en fincas piloto con resultados que muestran una reducción cercana al 20% en pérdidas de cosecha.",
+    "imagen": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&q=80",
+    "fecha": "2026-09-05",
+    "destacada": true
+  },
+  {
+    "id": 3,
+    "titulo": "Ruta turística conecta cinco municipios andinos",
+    "categoria": "Turística",
+    "resumen": "El nuevo corredor turístico impulsa la economía local a través del senderismo y la gastronomía típica.",
+    "contenido": "Cinco municipios de la región andina se unieron para lanzar una ruta turística que combina senderismo, avistamiento de aves y gastronomía típica. El proyecto busca fortalecer la economía local, generando ingresos para más de 80 familias vinculadas a posadas rurales y restaurantes tradicionales. La ruta cuenta con señalización, guías certificados y paquetes de dos y cuatro días.",
+    "imagen": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+    "fecha": "2026-08-28",
+    "destacada": true
+  },
+  {
+    "id": 4,
+    "titulo": "Feria comercial reúne más de 200 emprendimientos locales",
+    "categoria": "Comercial",
+    "resumen": "El evento busca conectar a pequeños productores con nuevos canales de distribución.",
+    "contenido": "Más de 200 emprendimientos locales participaron en la feria comercial realizada este fin de semana, que tuvo como objetivo principal conectar a pequeños productores con distribuidores y compradores institucionales. Durante los tres días del evento se realizaron ruedas de negocio, talleres de mercadeo digital y espacios de networking entre emprendedores.",
+    "imagen": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&q=80",
+    "fecha": "2026-09-08",
+    "destacada": false
+  },
+  {
+    "id": 5,
+    "titulo": "Universidad estrena programa de becas en programación",
+    "categoria": "Educativa",
+    "resumen": "El programa cubre matrícula completa para jóvenes de estratos 1 y 2 interesados en desarrollo de software.",
+    "contenido": "Una universidad regional lanzó un programa de becas dirigido a jóvenes de estratos 1 y 2 interesados en estudiar tecnologías de la información. El beneficio cubre el 100% de la matrícula y un auxilio de sostenimiento durante los primeros cuatro semestres. Las inscripciones estarán abiertas hasta finales de octubre.",
+    "imagen": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80",
+    "fecha": "2026-09-10",
+    "destacada": false
+  },
+  {
+    "id": 6,
+    "titulo": "Aplicación móvil facilita el reciclaje en zonas urbanas",
+    "categoria": "Tecnológica",
+    "resumen": "La app conecta a ciudadanos con rutas de recolección de material reciclable en tiempo real.",
+    "contenido": "Una nueva aplicación móvil permite a los ciudadanos ubicar los puntos de recolección de material reciclable más cercanos y conocer los horarios de las rutas de recolección en tiempo real. La herramienta, desarrollada por una startup local, ya cuenta con más de cinco mil descargas y planea expandirse a otras ciudades del país en los próximos meses.",
+    "imagen": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&q=80",
+    "fecha": "2026-09-11",
+    "destacada": false
+  }
+]
