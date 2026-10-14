@@ -28,7 +28,7 @@ jobs:
           cache: npm
           cache-dependency-path: newsapp-angular/package-lock.json
       - run: npm ci
-      # El base-href toma automáticamente el nombre del repositorio
+      # 
       - run: npx ng build --base-href "/${{ github.event.repository.name }}/"
       - uses: actions/upload-pages-artifact@v3
         with:
